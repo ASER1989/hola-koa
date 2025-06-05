@@ -1,4 +1,4 @@
-# Hola for koa
+# Hola Koa
 
 一个简单的命令行工具，用于快速创建基于 **TypeScript** 的 [Koa](https://koajs.com/) 应用模板，内置基础中间件（请求格式化）和开发工具支持。
 
@@ -6,18 +6,13 @@
 
 ## 🚀 快速开始
 
-### 1. 克隆/下载脚手架
-
-
-```bash
-git clone https://github.com/ASER1989/hola-koa.git
-cd hola-koa
-npm install
-npm link  # 注册为全局命令 hola-koa
+### 安装
+``` bash
+npm install -g hola-koa
 
 ```
 
-## 创建新项目
+### 创建新项目
 
 ``` sh
 hola-koa my-project

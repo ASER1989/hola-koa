@@ -8,7 +8,7 @@ const projectName = process.argv[2];
 
 if (!projectName) {
   console.error('❌ 请输入项目名称：');
-  console.error('    npx create-koa-app-ts my-project');
+  console.error('    npx hola-koa my-project');
   process.exit(1);
 }
 
