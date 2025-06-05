@@ -5,7 +5,7 @@ export default (prefix: string) => {
   const router = new Router({ prefix });
 
   router.get('/', async (ctx: Context) => {
-    return 'Hello World!';
+    return 'Hola Koa!';
   });
 
   router.get('/hello', async (ctx: Context) => {
