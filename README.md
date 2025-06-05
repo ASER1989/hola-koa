@@ -11,9 +11,9 @@
 
 ```bash
 git clone https://github.com/ASER1989/hola-koa.git
-cd create-koa-app-ts
+cd hola-koa
 npm install
-npm link  # 注册为全局命令 create-koa-app-ts
+npm link  # 注册为全局命令 hola-koa
 
 ```
 
