@@ -1,0 +1,17 @@
+{
+  "name": "hola-koa",
+  "version": "1.0.0",
+  "scripts": {
+    "changeset:update": "changeset && changeset version"
+  },
+  "bin": {
+    "hola-koa": "./bin/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.4",
+    "changeset": "^0.2.6"
+  }
+}
