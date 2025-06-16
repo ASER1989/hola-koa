@@ -4,7 +4,7 @@
 
 English | [中文文档](README_CN.md)  
 
-A simple command-line tool for quickly creating TypeScript-based  [Koa](https://koajs.com/) application templates, featuring built-in basic middleware (request formatting) and development tool support.
+**A simple command-line tool for quickly creating TypeScript-based  [Koa](https://koajs.com/) application templates, featuring built-in basic middleware (request formatting) and development tool support.**
 
 
 ## 🚀 Quick Start
